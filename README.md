@@ -2,7 +2,7 @@
 <h3 align="center">A web developer / Graphic Deezigner from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/iIqmM5tTjmpOB9mpbn.webp">
 
-- 🔭 I’m currently working on **Flutter App development**
+- 🔭 I’m currently working on **Web App development**
 
 - 🌱 I’m currently learning **React**
 
