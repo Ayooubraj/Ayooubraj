@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Web App development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI Integration and Design**
 
 - 📫 How to reach me? **ayooubrg@gmail.com**
 
-- ⚡ Fun fact **I can sing..kinda :)**
+- ⚡ Fun fact **I'm a musician :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
